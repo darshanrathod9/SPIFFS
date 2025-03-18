@@ -32,7 +32,7 @@ void setup()
   Serial.begin(115200);
 
   // for dynamic congiuring of wifi ssid and password 
-  wifimanager.autoconnect("ESP32_WiFi_Config");
+  wifimanager.autoConnect("ESP32_WiFi_Config");
 
   // // for hard coding the wifi ssid and password 
   // WiFi.mode(WIFI_STA);
