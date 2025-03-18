@@ -1,5 +1,3 @@
-#include "arduino_secrets.h"
-
 /*
       step 1: mount SPIFFS      -   done
       step 2: connect to wifi   -   done
